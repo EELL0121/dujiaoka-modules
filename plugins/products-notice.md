@@ -28,4 +28,4 @@ ProductsNotice能让你在补货、上新等场景自动向指定频道发送通
 - `Unit` 货币单位，在发送消息时的货币单位
 - `Situations` 要发送消息的情况，有“add_product 添加商品”，“replenishment 添加卡密（补货）”，“reduction 降价”，“increase 涨价”
 
-[buy]: https://buy.2m.pub/buy/14
+[buy]: https://catfaka.com/buy/9
